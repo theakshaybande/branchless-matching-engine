@@ -1,0 +1,39 @@
+# Build directories
+/build/
+/out/
+/cmake-build-*/
+
+# CMake generated files
+/CMakeCache.txt
+/CMakeFiles/
+/CTestTestfile.cmake
+/Testing/
+/Makefile
+/cmake_install.cmake
+/compile_commands.json
+
+# IDEs and editors
+/.idea/
+/.vscode/
+*.vcxproj*
+*.sln
+*.xcodeproj/
+*.xcworkspace/
+
+# Binaries and objects
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Debug symbols and profiling
+*.pdb
+*.dSYM/
+*.profraw
+*.profdata
